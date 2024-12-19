@@ -43,7 +43,7 @@ export function drawHandLandmarks(results, drawingUtils) {
                 landmarks,
                 HandLandmarker.HAND_CONNECTIONS,
                 {
-                    color: "#00FF00",
+                    color: "#009FF9",
                     lineWidth: 5,
                 }
             );
